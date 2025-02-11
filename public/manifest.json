@@ -1,0 +1,21 @@
+{
+    "name": "Sehati",
+    "short_name": "Sehati",
+    "background_color": "#febd25 ",
+    "display": "standalone",
+    "description": "Sehati",
+    "theme_color": "#febd25",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/pwa-icon/ios/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo_sehati_nobg.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
